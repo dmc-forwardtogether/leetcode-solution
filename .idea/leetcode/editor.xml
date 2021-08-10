@@ -35,6 +35,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ArithmeticSlices.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ArithmeticSlices.java" />
+              <option name="questionId" value="413" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/CourseSchedule.java">
           <value>
             <LeetcodeEditor>
@@ -96,6 +104,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SecondMinimumNodeInABinaryTree.java" />
               <option name="questionId" value="671" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/TheKWeakestRowsInAMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TheKWeakestRowsInAMatrix.java" />
+              <option name="questionId" value="1463" />
             </LeetcodeEditor>
           </value>
         </entry>
