@@ -5,6 +5,8 @@ import org.jetbrains.annotations.NotNull;
 import java.util.Scanner;
 
 /**
+ *输入工具类 
+ *
  * @author qxq
  * 2021/8/14
  */
@@ -14,6 +16,16 @@ public class ScannerUtils {
      * @return 整数
      */
     public static int ScannerInt() {
+        Scanner in = new Scanner(System.in);
+        return in.nextInt();
+    }
+
+    /**
+     * @param detail 说明
+     * @return 整数
+     */
+    public static int ScannerInt(String detail) {
+        System.out.print(detail);
         Scanner in = new Scanner(System.in);
         return in.nextInt();
     }
@@ -36,6 +48,21 @@ public class ScannerUtils {
      * @return 整数数组
      */
     public static int @NotNull [] ScannerIntArray(int n) {
+        Scanner in = new Scanner(System.in);
+        int[] ints = new int[n];
+        for (int i = 0; i < in.nextInt(); i++) {
+            ints[i] = in.nextInt();
+        }
+        return ints;
+    }
+
+    /**
+     * @param n 数组大小
+     * @param detail 说明
+     * @return 整数数组
+     */
+    public static int @NotNull [] ScannerIntArray(String detail,int n) {
+        System.out.print(detail);
         Scanner in = new Scanner(System.in);
         int[] ints = new int[n];
         for (int i = 0; i < in.nextInt(); i++) {
