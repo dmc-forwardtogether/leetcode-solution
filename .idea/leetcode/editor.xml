@@ -91,6 +91,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/OutOfBoundaryPaths.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/OutOfBoundaryPaths.java" />
+              <option name="questionId" value="576" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PathInZigzagLabelledBinaryTree.java">
           <value>
             <LeetcodeEditor>
