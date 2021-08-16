@@ -36,8 +36,9 @@ public class ScannerUtils {
     public static int @NotNull [] ScannerIntArray() {
         Scanner in = new Scanner(System.in);
         System.out.println("请输入数组大小:");
-        int[] ints = new int[in.nextInt()];
-        for (int i = 0; i < in.nextInt(); i++) {
+        int n = in.nextInt();
+        int[] ints = new int[n];
+        for (int i = 0; i < n; i++) {
             ints[i] = in.nextInt();
         }
         return ints;
@@ -50,7 +51,7 @@ public class ScannerUtils {
     public static int @NotNull [] ScannerIntArray(int n) {
         Scanner in = new Scanner(System.in);
         int[] ints = new int[n];
-        for (int i = 0; i < in.nextInt(); i++) {
+        for (int i = 0; i < n; i++) {
             ints[i] = in.nextInt();
         }
         return ints;
@@ -65,7 +66,7 @@ public class ScannerUtils {
         System.out.print(detail);
         Scanner in = new Scanner(System.in);
         int[] ints = new int[n];
-        for (int i = 0; i < in.nextInt(); i++) {
+        for (int i = 0; i < n; i++) {
             ints[i] = in.nextInt();
         }
         return ints;
@@ -109,6 +110,33 @@ public class ScannerUtils {
             }
         }
         return ints;
+    }
+
+    /**
+     * @return 字符串数组
+     */
+    public static String @NotNull [] ScannerStringArray() {
+        Scanner in = new Scanner(System.in);
+        System.out.println("请输入数组大小:");
+        String[] strings = new String[in.nextInt()];
+        for (int i = 0; i < in.nextInt(); i++) {
+            strings[i] = in.next();
+        }
+        return strings;
+    }
+
+    /**
+     * @param detail 说明
+     * @return 字符串数组
+     */
+    public static String @NotNull [] ScannerStringArray(String detail) {
+        Scanner in = new Scanner(System.in);
+        System.out.print(detail);
+        String[] strings = new String[in.nextInt()];
+        for (int i = 0; i < in.nextInt(); i++) {
+            strings[i] = in.next();
+        }
+        return strings;
     }
 
 }
