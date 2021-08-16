@@ -53,7 +53,7 @@ public class OutOfBoundaryPaths {
         public int findPaths(int m, int n, int maxMove, int startRow, int startColumn) {
             //过大的结果处理
             int tooBig = 1000000007;
-            //出界坐标
+            //移动方向
             int[][] coordinates = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
             //出界数
             int outCount = 0;
