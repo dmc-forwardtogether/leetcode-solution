@@ -139,4 +139,15 @@ public class ScannerUtils {
         return strings;
     }
 
+    /**
+     * @param detail 说明
+     * @return 字符串
+     */
+    public static String scannerString(String detail) {
+        Scanner in = new Scanner(System.in);
+        System.out.print(detail);
+        String string = in.next();
+        return string;
+    }
+
 }
