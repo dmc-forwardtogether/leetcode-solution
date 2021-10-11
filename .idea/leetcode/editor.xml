@@ -92,6 +92,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerToEnglishWords.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/IntegerToEnglishWords.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerToEnglishWords.java" />
+              <option name="questionId" value="273" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerToRoman.java">
           <value>
             <LeetcodeEditor>
