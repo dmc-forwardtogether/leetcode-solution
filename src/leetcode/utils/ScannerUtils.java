@@ -146,8 +146,7 @@ public class ScannerUtils {
     public static String scannerString(String detail) {
         Scanner in = new Scanner(System.in);
         System.out.print(detail);
-        String string = in.next();
-        return string;
+        return in.nextLine();
     }
 
 }

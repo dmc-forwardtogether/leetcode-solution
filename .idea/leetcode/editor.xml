@@ -43,6 +43,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ArrangingCoins.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ArrangingCoins.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ArrangingCoins.java" />
+              <option name="questionId" value="441" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/BeautifulArrangement.java">
           <value>
             <LeetcodeEditor>
@@ -86,7 +95,6 @@
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerToRoman.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/IntegerToRoman.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/IntegerToRoman.java" />
               <option name="questionId" value="12" />
             </LeetcodeEditor>
@@ -135,7 +143,6 @@
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RegularExpressionMatching.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RegularExpressionMatching.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RegularExpressionMatching.java" />
               <option name="questionId" value="10" />
             </LeetcodeEditor>
@@ -144,7 +151,6 @@
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseVowelsOfAString.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ReverseVowelsOfAString.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseVowelsOfAString.java" />
               <option name="questionId" value="345" />
             </LeetcodeEditor>
@@ -169,7 +175,6 @@
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/StudentAttendanceRecordI.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/StudentAttendanceRecordI.md" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/StudentAttendanceRecordI.java" />
               <option name="questionId" value="551" />
             </LeetcodeEditor>
@@ -180,6 +185,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/TheKWeakestRowsInAMatrix.java" />
               <option name="questionId" value="1463" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/XltzEq.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/XltzEq.java" />
+              <option name="questionId" value="1000254" />
             </LeetcodeEditor>
           </value>
         </entry>
