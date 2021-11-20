@@ -36,8 +36,8 @@ import leetcode.utils.ScannerUtils;
 public class DivideTwoIntegers {
     public static void main(String[] args) {
         Solution solution = new DivideTwoIntegers().new Solution();
-        int dividend = ScannerUtils.ScannerInt("被除数:");
-        int divisor = ScannerUtils.ScannerInt("除数:");
+        int dividend = ScannerUtils.scannerInt("被除数:");
+        int divisor = ScannerUtils.scannerInt("除数:");
         System.out.println(solution.divide(dividend, divisor));
     }
 

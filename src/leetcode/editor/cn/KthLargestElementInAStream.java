@@ -49,12 +49,12 @@ import java.util.PriorityQueue;
 
 public class KthLargestElementInAStream {
     public static void main(String[] args) {
-        int k = ScannerUtils.ScannerInt("k = ");
-        int n = ScannerUtils.ScannerInt("请输入初始化数组大小:");
-        int[] nums = ScannerUtils.ScannerIntArray("nums = ",n);
+        int k = ScannerUtils.scannerInt("k = ");
+        int n = ScannerUtils.scannerInt("请输入初始化数组大小:");
+        int[] nums = ScannerUtils.scannerIntArray("nums = ",n);
         KthLargest kthLargest = new KthLargestElementInAStream().new KthLargest(k,nums);
         while (true){
-            System.out.println(kthLargest.add(ScannerUtils.ScannerInt()));
+            System.out.println(kthLargest.add(ScannerUtils.scannerInt()));
         }
     }
 

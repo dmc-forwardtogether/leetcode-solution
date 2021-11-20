@@ -74,9 +74,9 @@ import leetcode.utils.ScannerUtils;
 public class CountUnhappyFriends {
     public static void main(String[] args) {
         Solution solution = new CountUnhappyFriends().new Solution();
-        int n = ScannerUtils.ScannerInt();
-        int[][] preferences = ScannerUtils.ScannerDoubleIntArray(n, n - 1);
-        int[][] pairs = ScannerUtils.ScannerDoubleIntArray(n / 2, 2);
+        int n = ScannerUtils.scannerInt();
+        int[][] preferences = ScannerUtils.scannerDoubleIntArray(n, n - 1);
+        int[][] pairs = ScannerUtils.scannerDoubleIntArray(n / 2, 2);
         System.out.println(solution.unhappyFriends(n, preferences, pairs));
     }
 

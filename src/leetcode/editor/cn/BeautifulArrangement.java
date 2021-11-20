@@ -39,7 +39,7 @@ import leetcode.utils.ScannerUtils;
 public class BeautifulArrangement {
     public static void main(String[] args) {
         Solution solution = new BeautifulArrangement().new Solution();
-        int n = ScannerUtils.ScannerInt("N = ");
+        int n = ScannerUtils.scannerInt("N = ");
         System.out.println(solution.countArrangement(n));
     }
 

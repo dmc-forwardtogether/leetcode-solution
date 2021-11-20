@@ -1,11 +1,9 @@
 package leetcode.utils;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.Scanner;
 
 /**
- *输入工具类 
+ * 输入工具类
  *
  * @author qxq
  * 2021/8/14
@@ -15,7 +13,7 @@ public class ScannerUtils {
     /**
      * @return 整数
      */
-    public static int ScannerInt() {
+    public static int scannerInt() {
         Scanner in = new Scanner(System.in);
         return in.nextInt();
     }
@@ -24,7 +22,7 @@ public class ScannerUtils {
      * @param detail 说明
      * @return 整数
      */
-    public static int ScannerInt(String detail) {
+    public static int scannerInt(String detail) {
         System.out.print(detail);
         Scanner in = new Scanner(System.in);
         return in.nextInt();
@@ -33,7 +31,7 @@ public class ScannerUtils {
     /**
      * @return 整数数组
      */
-    public static int @NotNull [] ScannerIntArray() {
+    public static int[] scannerIntArray() {
         Scanner in = new Scanner(System.in);
         System.out.println("请输入数组大小:");
         int n = in.nextInt();
@@ -48,7 +46,7 @@ public class ScannerUtils {
      * @param n 数组大小
      * @return 整数数组
      */
-    public static int @NotNull [] ScannerIntArray(int n) {
+    public static int[] scannerIntArray(int n) {
         Scanner in = new Scanner(System.in);
         int[] ints = new int[n];
         for (int i = 0; i < n; i++) {
@@ -58,11 +56,11 @@ public class ScannerUtils {
     }
 
     /**
-     * @param n 数组大小
+     * @param n      数组大小
      * @param detail 说明
      * @return 整数数组
      */
-    public static int @NotNull [] ScannerIntArray(String detail,int n) {
+    public static int[] scannerIntArray(String detail, int n) {
         System.out.print(detail);
         Scanner in = new Scanner(System.in);
         int[] ints = new int[n];
@@ -75,7 +73,7 @@ public class ScannerUtils {
     /**
      * @return M*N二维整数数组
      */
-    public static int @NotNull [][] ScannerDoubleIntArray() {
+    public static int[][] scannerDoubleIntArray() {
         Scanner in = new Scanner(System.in);
         System.out.println("请输入数组行数:");
         //行数
@@ -91,7 +89,7 @@ public class ScannerUtils {
      * @param n 列数
      * @return M*N二维整数数组
      */
-    public static int @NotNull [][] ScannerDoubleIntArray(int m, int n) {
+    public static int[][] scannerDoubleIntArray(int m, int n) {
         Scanner in = new Scanner(System.in);
         return getDoubleIntArray(m, n, in);
     }
@@ -102,7 +100,7 @@ public class ScannerUtils {
      * @param in Scanner
      * @return M*N二维整数数组
      */
-    private static int @NotNull [][] getDoubleIntArray(int m, int n, Scanner in) {
+    private static int[][] getDoubleIntArray(int m, int n, Scanner in) {
         int[][] ints = new int[m][n];
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
@@ -115,7 +113,7 @@ public class ScannerUtils {
     /**
      * @return 字符串数组
      */
-    public static String @NotNull [] ScannerStringArray() {
+    public static String[] scannerStringArray() {
         Scanner in = new Scanner(System.in);
         System.out.println("请输入数组大小:");
         String[] strings = new String[in.nextInt()];
@@ -129,7 +127,7 @@ public class ScannerUtils {
      * @param detail 说明
      * @return 字符串数组
      */
-    public static String @NotNull [] ScannerStringArray(String detail) {
+    public static String[] scannerStringArray(String detail) {
         Scanner in = new Scanner(System.in);
         System.out.print(detail);
         String[] strings = new String[in.nextInt()];

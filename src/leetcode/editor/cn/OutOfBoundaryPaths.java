@@ -40,11 +40,11 @@ import leetcode.utils.ScannerUtils;
 public class OutOfBoundaryPaths {
     public static void main(String[] args) {
         Solution solution = new OutOfBoundaryPaths().new Solution();
-        int m = ScannerUtils.ScannerInt("m = ");
-        int n = ScannerUtils.ScannerInt("n = ");
-        int maxMove = ScannerUtils.ScannerInt("maxMove = ");
-        int startRow = ScannerUtils.ScannerInt("startRow = ");
-        int startColumn = ScannerUtils.ScannerInt("startColumn = ");
+        int m = ScannerUtils.scannerInt("m = ");
+        int n = ScannerUtils.scannerInt("n = ");
+        int maxMove = ScannerUtils.scannerInt("maxMove = ");
+        int startRow = ScannerUtils.scannerInt("startRow = ");
+        int startColumn = ScannerUtils.scannerInt("startColumn = ");
         System.out.println(solution.findPaths(m, n, maxMove, startRow, startColumn));
     }
 

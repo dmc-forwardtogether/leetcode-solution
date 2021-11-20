@@ -47,7 +47,7 @@ import leetcode.utils.ScannerUtils;
 public class IntegerToEnglishWords {
     public static void main(String[] args) {
         Solution solution = new IntegerToEnglishWords().new Solution();
-        int num = ScannerUtils.ScannerInt();
+        int num = ScannerUtils.scannerInt();
         System.out.println(solution.numberToWords(num));
     }
 

@@ -41,7 +41,7 @@ public class ReverseStringIi {
     public static void main(String[] args) {
         Solution solution = new ReverseStringIi().new Solution();
         String s = ScannerUtils.scannerString("s = ");
-        int k = ScannerUtils.ScannerInt("k = ");
+        int k = ScannerUtils.scannerInt("k = ");
         System.out.println(solution.reverseStr(s, k));
     }
 

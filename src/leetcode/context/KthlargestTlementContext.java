@@ -13,12 +13,12 @@ import java.util.PriorityQueue;
  */
 public class KthlargestTlementContext {
     public static void main(String[] args) {
-        int k = ScannerUtils.ScannerInt("k = ");
-        int n = ScannerUtils.ScannerInt("请输入初始化数组大小:");
-        int[] nums = ScannerUtils.ScannerIntArray("nums = ", n);
+        int k = ScannerUtils.scannerInt("k = ");
+        int n = ScannerUtils.scannerInt("请输入初始化数组大小:");
+        int[] nums = ScannerUtils.scannerIntArray("nums = ", n);
         KthLargestTLE kthLargest = new KthLargestTLE(k, nums);
         while (true) {
-            System.out.println(kthLargest.add(ScannerUtils.ScannerInt()));
+            System.out.println(kthLargest.add(ScannerUtils.scannerInt()));
         }
     }
 
