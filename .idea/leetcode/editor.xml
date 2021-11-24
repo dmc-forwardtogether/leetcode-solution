@@ -185,6 +185,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReconstructOriginalDigitsFromEnglish.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/ReconstructOriginalDigitsFromEnglish.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/ReconstructOriginalDigitsFromEnglish.java" />
+              <option name="questionId" value="423" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RegularExpressionMatching.java">
           <value>
             <LeetcodeEditor>
