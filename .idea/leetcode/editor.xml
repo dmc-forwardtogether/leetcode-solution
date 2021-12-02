@@ -202,6 +202,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/RelativeRanks.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/RelativeRanks.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/RelativeRanks.java" />
+              <option name="questionId" value="506" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/ReverseVowelsOfAString.java">
           <value>
             <LeetcodeEditor>
