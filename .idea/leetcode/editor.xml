@@ -152,6 +152,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximizeSumOfArrayAfterKNegations.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MaximizeSumOfArrayAfterKNegations.md" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MaximizeSumOfArrayAfterKNegations.java" />
+              <option name="questionId" value="1047" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MaximumDepthOfNAryTree.java">
           <value>
             <LeetcodeEditor>
