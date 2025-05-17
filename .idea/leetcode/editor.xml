@@ -3,47 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[1073]Adding Two Negabinary Numbers.java">
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubstring.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddingTwoNegabinaryNumbers.md" />
-              <option name="frontendQuestionId" value="leetcode.cn1073" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LongestPalindromicSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode.cn5" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddingTwoNegabinaryNumbers.java" />
-              <option name="titleSlug" value="adding-two-negabinary-numbers" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AddingTwoNegabinaryNumbers .java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddingTwoNegabinaryNumbers.md" />
-              <option name="frontendQuestionId" value="leetcode.cn1073" />
-              <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddingTwoNegabinaryNumbers.java" />
-              <option name="titleSlug" value="adding-two-negabinary-numbers" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/AddingTwoNegabinaryNumbers.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddingTwoNegabinaryNumbers.md" />
-              <option name="frontendQuestionId" value="leetcode.cn1073" />
-              <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddingTwoNegabinaryNumbers.java" />
-              <option name="titleSlug" value="adding-two-negabinary-numbers" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/LetterTilePossibilities.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/LetterTilePossibilities.md" />
-              <option name="frontendQuestionId" value="leetcode.cn1079" />
-              <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LetterTilePossibilities.java" />
-              <option name="titleSlug" value="letter-tile-possibilities" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/LongestPalindromicSubstring.java" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -58,14 +25,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/leetcode/editor/cn/AddingTwoNegabinaryNumbers .java">
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/SortColors.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/AddingTwoNegabinaryNumbers.md" />
-              <option name="frontendQuestionId" value="leetcode.cn1073" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/SortColors.md" />
+              <option name="frontendQuestionId" value="leetcode.cn75" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/AddingTwoNegabinaryNumbers.java" />
-              <option name="titleSlug" value="adding-two-negabinary-numbers" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/SortColors.java" />
+              <option name="titleSlug" value="sort-colors" />
             </LeetcodeEditor>
           </value>
         </entry>
